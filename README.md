@@ -53,6 +53,6 @@ Email Me 👉 ✉️ **sahityashekhar7870ssm@gmail.com** For Project or Anything
 ![](https://github-contributor-stats.vercel.app/api?username=ROZZER&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ROZZER&icon=0&color=0)]
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
